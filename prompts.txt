@@ -1,0 +1,6 @@
+Reflect: Using a remote repository
+Use the following reflection prompt:
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+A: When you could collaborate with multiple contributors, e.g. a work setting.
